@@ -1,0 +1,11 @@
+.container{
+    text-align: center;
+    background-color: #9e6495;
+    color: white;
+    padding: 30px;
+    font-family: Arial;
+    text-align: center;
+    margin: 20px;
+    width: 50%;
+    height: 150px;
+}
